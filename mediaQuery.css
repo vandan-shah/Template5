@@ -1,0 +1,25 @@
+@media (max-width: 1600px) /*min: 1201*/{
+    /* Perfect */
+}
+
+@media (max-width: 1200px) /*min: 1025*/{
+    /* Perfect */
+}
+
+@media (max-width: 1024px) /*min: 769*/{
+    /* Perfect */
+}
+
+@media (max-width: 768px) /*min: 481*/{
+    /************************ HEADER ***********************/
+    .main-content {
+        top: 30%;
+    }
+}
+
+@media (max-width: 480px) /*min: 321*/{
+    /************************ HEADER ***********************/
+    .main-content {
+        top: 25%;
+    }
+}
